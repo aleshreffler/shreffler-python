@@ -19,3 +19,6 @@ This parameter must be a geodatabase containing only the classifications to be a
 
 Point Geodatabase Location:
 This parameter describes the output folder location for the geodatabase which will contain the classification point feature classes. A geodatabase will be created in the folder provided.
+
+
+DEMO VIDEO LINK : https://youtu.be/jnyu0l6ppCE
